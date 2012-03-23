@@ -1,0 +1,21 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingSitesUsingASPNET45</Id>
+  <Technologies>
+    <Technology>ASP.NET 4.5</Technology>
+    <Technology>Visual Studio 11</Technology>
+    <Technology>NuGet</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://bradygaster.com</Blog>
+    <Email>bradyg@microsoft.com</Email>
+    <Name>Brady Gaster</Name>
+  </Author>
+  <Description>
+    Discusses the new features relevant to ASP.NET 4.5 and covers some new additions in the framework specific to web developers.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\BuildingSitesUsingASPNET45.pptx</Document>
+  <Title>Advanced Building Sites Using ASP.NET 4.5</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

@@ -1,0 +1,23 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>CreatingRichHtml5Experiences</Id>
+  <Technologies>
+    <Technology>HTML5</Technology>
+    <Technology>jQuery</Technology>
+    <Technology>AJAX</Technology>
+    <Technology>JSON</Technology>
+    <Technology>SignalR</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://bradygaster.com</Blog>
+    <Email>bradyg@microsoft.com</Email>
+    <Name>Brady Gaster</Name>
+  </Author>
+  <Description>
+    Covers numerous facets of dynamic web client application development and introduces the use of jQuery as a scripting library and SignalR for real-time communication.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\CreatingRichHtml5Experiences.pptx</Document>
+  <Title>Creating Rich HTML5 Experiences</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

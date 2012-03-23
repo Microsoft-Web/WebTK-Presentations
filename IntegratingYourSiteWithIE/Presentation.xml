@@ -1,0 +1,20 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>IntegratingYourSiteWithIE</Id>
+  <Technologies>
+    <Technology>Internet Explorer 9</Technology>
+    <Technology>HTML5</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://bradygaster.com</Blog>
+    <Email>bradyg@microsoft.com</Email>
+    <Name>Brady Gaster</Name>
+  </Author>
+  <Description>
+    Introduces developers to the tools available for Internet Explorer 9 and how it integrates with the Windows desktop via Site Pinning, Jump Lists, and provides superior support for HTML5 standards.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\IntegratingYourSiteWithIE.pptx</Document>
+  <Title>Integrating Your Site with IE</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

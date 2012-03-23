@@ -1,0 +1,21 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>DeployingWebAppsToTheCloud</Id>
+  <Technologies>
+    <Technology>Windows Azure</Technology>
+    <Technology>Session Management</Technology>
+    <Technology>Uploading to Blob Storage</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://bradygaster.com</Blog>
+    <Email>bradyg@microsoft.com</Email>
+    <Name>Brady Gaster</Name>
+  </Author>
+  <Description>
+    Introduces the considerations required for deployment to Windows Azure that ASP.NET developers need to understand and implement.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\DeployingWebAppsToTheCloud.pptx</Document>
+  <Title>Deploying Web Apps to the Cloud</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
