@@ -3,8 +3,6 @@
   <Id>DeployingWebAppsToTheCloud</Id>
   <Technologies>
     <Technology>Windows Azure</Technology>
-    <Technology>Session Management</Technology>
-    <Technology>Uploading to Blob Storage</Technology>
   </Technologies>
   <Author>
     <Blog>http://bradygaster.com</Blog>

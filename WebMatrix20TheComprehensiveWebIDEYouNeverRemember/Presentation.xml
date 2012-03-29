@@ -2,9 +2,8 @@
 <Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
   <Id>WebMatrix20TheComprehensiveWebIDEYouNeverRemember</Id>
   <Technologies>
-    <Technology>NuGet</Technology>
-    <Technology>WebMatrix</Technology>
-    <Technology>Razor</Technology>
+    <Technology>Microsoft WebMatrix</Technology>
+	<!--<Technology>NuGet</Technology>-->
   </Technologies>
   <Author>
     <Blog>http://bradygaster.com</Blog>

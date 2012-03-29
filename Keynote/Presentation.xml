@@ -2,13 +2,11 @@
 <Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
   <Id>Keynote</Id>
   <Technologies>
-    <Technology>HTML5</Technology>
+    <!--<Technology>HTML5</Technology>
     <Technology>jQuery</Technology>
-    <Technology>AJAX</Technology>
-    <Technology>JSON</Technology>
     <Technology>SignalR</Technology>
     <Technology>ASP.NET</Technology>
-    <Technology>Web API</Technology>
+    <Technology>Web API</Technology>-->
     <Technology>Windows Azure</Technology>
   </Technologies>
   <Author>

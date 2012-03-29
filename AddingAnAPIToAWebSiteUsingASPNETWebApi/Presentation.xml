@@ -2,11 +2,10 @@
 <Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
   <Id>AddingAnAPIToAWebSiteUsingASPNETWebAPI</Id>
   <Technologies>
-    <Technology>ASP.NET 4.5</Technology>
-    <Technology>Visual Studio 11</Technology>
-    <Technology>Web API</Technology>
+    <Technology>Visual Studio</Technology>
     <Technology>ASP.NET MVC</Technology>
-    <Technology>REST</Technology>
+    <!--<Technology>ASP.NET 4.5</Technology>
+	<Technology>Web API</Technology>-->
   </Technologies>
   <Author>
     <Blog>http://bradygaster.com</Blog>
