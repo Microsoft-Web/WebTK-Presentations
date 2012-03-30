@@ -2,9 +2,9 @@
 <Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
   <Id>CreatingRichHtml5Experiences</Id>
   <Technologies>
-    <!--<Technology>HTML5</Technology>
+    <Technology>HTML 5</Technology>
     <Technology>jQuery</Technology>
-    <Technology>SignalR</Technology>-->
+    <Technology>SignalR</Technology>
   </Technologies>
   <Author>
     <Blog>http://bradygaster.com</Blog>
