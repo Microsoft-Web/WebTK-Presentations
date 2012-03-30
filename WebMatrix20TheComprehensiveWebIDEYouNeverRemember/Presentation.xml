@@ -3,7 +3,7 @@
   <Id>WebMatrix20TheComprehensiveWebIDEYouNeverRemember</Id>
   <Technologies>
     <Technology>Microsoft WebMatrix</Technology>
-	<!--<Technology>NuGet</Technology>-->
+    <Technology>NuGet</Technology>
   </Technologies>
   <Author>
     <Blog>http://bradygaster.com</Blog>
