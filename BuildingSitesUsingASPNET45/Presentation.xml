@@ -3,8 +3,8 @@
   <Id>BuildingSitesUsingASPNET45</Id>
   <Technologies>
     <Technology>Visual Studio</Technology>
-	<!--<Technology>ASP.NET 4.5</Technology>
-    <Technology>NuGet</Technology>-->
+    <Technology>ASP.NET</Technology>
+    <Technology>NuGet</Technology>
   </Technologies>
   <Author>
     <Blog>http://bradygaster.com</Blog>
