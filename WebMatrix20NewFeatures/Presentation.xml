@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
-  <Id>WebMatrix20TheComprehensiveWebIDEYouNeverRemember</Id>
+  <Id>WebMatrix20NewFeatures</Id>
   <Technologies>
     <Technology>Microsoft WebMatrix</Technology>
     <Technology>NuGet</Technology>
@@ -13,7 +13,7 @@
   <Description>
     Covers the new features available for web developers of all expertise levels in the new release of WebMatrix.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\WebMatrix20TheComprehensiveWebIDEYouNeverRemember.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\WebMatrix20NewFeatures.pptx</Document>
   <Title>WebMatrix 2.0 the Comprehensive Web IDE You Never Remember</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>

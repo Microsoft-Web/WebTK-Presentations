@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
-  <Id>Keynote</Id>
+  <Id>WelcomeToWebCamps</Id>
   <Technologies>
     <Technology>HTML 5</Technology>
     <Technology>jQuery</Technology>
@@ -17,7 +17,7 @@
   <Description>
     Introduction to the presentations and content that will be provided throughout the Web Camp.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\Keynote.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\WelcomeToWebCamps.pptx</Document>
   <Title>Welcome to the Microsoft Web Camp</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>
