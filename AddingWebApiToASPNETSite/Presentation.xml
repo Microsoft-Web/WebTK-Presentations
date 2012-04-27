@@ -16,7 +16,7 @@
     An introduction to the ASP.NET Web API, and a walk-through on building a RESTful service using it.
   </Description>
   <Document RemoveSpeakerNotes="true">.\AddingWebApiToASPNETSite.pptx</Document>
-  <Title>Adding An API to a Web Site Using ASP.NET Web API</Title>
+  <Title>Building a Service Layer Using ASP.NET Web API</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>
 </Presentation>
